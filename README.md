@@ -19,3 +19,10 @@
   <img align="center" alt="SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="Bootstrap 5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 </div>
+<br>
+<br>
+<br>
+
+---
+
+[![WrSnow's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wrsnow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
