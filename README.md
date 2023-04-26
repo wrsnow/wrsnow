@@ -10,6 +10,7 @@
   <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 	<img align="center" alt="NextJS" height="30" width="40" src="https://github.com/wrsnow/wrsnow/blob/main/dist/next-white-border.svg">
   <img align="center" alt="Jquery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <br>
   <br>
   <br>
